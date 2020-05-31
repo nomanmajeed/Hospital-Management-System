@@ -1,0 +1,19 @@
+Patient Id:  123
+
+Patient Name:  sds
+
+Father Name:  sds
+
+Patient CINC:  sds
+
+Date of Birth:  01-January-323
+
+Gender:  Male
+
+Address:  wedw
+
+Contact#:  sds
+
+Doctor Type:  Medical Specialist
+
+Blood Group:  O+

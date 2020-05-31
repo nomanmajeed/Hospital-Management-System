@@ -1,0 +1,10 @@
+Patient Id: 345
+Patient Name: rfr
+Father Name: fdgd
+Patient CINC: df
+Date of Birth: 01-Feburary-4553
+Gender: Male
+Address: dfd
+Contact#: 44354
+Doctor Type: Surgical Specialist
+Blood Group: A+

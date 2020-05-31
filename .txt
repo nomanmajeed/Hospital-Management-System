@@ -1,0 +1,19 @@
+Patient Id:  
+
+Patient Name:  
+
+Father Name:  
+
+Patient CINC:  
+
+Date of Birth:  01-January-
+
+Gender:  Male
+
+Address:  
+
+Contact#:  
+
+Doctor Type:  Medical Specialist
+
+Blood Group:  O+
